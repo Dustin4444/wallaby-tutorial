@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/wallabyjs/tutorial#readme",
   "dependencies": {
-    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-env": "^7.27.1",
     "jest": "^29.7.0"
   }
 }
